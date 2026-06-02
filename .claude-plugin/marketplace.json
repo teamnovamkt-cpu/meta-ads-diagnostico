@@ -1,4 +1,6 @@
 {
+  "name": "meta-ads-diagnostico",
+  "owner": "teamnovamkt-cpu",
   "plugins": [
     {
       "name": "meta-ads-diagnostico",
