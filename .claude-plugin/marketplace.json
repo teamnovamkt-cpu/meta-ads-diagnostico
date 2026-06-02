@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "meta-ads-diagnostico",
+      "description": "Diagnóstico de campañas Meta Ads con el framework de las 3 preguntas para Ecommerce, WhatsApp y Leads",
+      "version": "1.0.0",
+      "path": "."
+    }
+  ]
+}
